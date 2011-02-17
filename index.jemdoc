@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}
+= Dimitris Giouroukis
+
+~~~
+{}{img_left}{photo.png}{me at my old room}{}{}{}
+[http://pelopas.uop.gr/~cst06039/ Dimitris Giouroukis] ({{<img src="gr.jpg" alt="GR" />}})\n
+B.Sc. Candidate\n
+[http://cst.uop.gr Department of Computer Science and Technology]\n
+[http://www.uop.gr University of Peloponnese]
+~~~
+
+== Welcome
+I am Dimitris, an amateur programmer and a B.Sc. candidate in Computer Science. This is my place on the net. You can find some basic info in order to contact me, if you'd like! Or you can take a peek at my CV, on the left.
+
+== Contact
+=== E-mail
+- [cst06039@uop.gr cst06039--/at/--uop--/dot/--gr]
+- [digitalbckp@gmail.com digitalbckp--/at/--gmail--/dot/--com]
+
+=== So-called social stuff
+[http://last.fm/user/rm_-rf_music {{<img src="fm.png" alt="FM" />}}]
+[https://github.com/digiou {{<img src="github.png" alt="github" />}}]
